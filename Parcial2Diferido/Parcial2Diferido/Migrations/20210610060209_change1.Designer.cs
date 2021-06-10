@@ -10,7 +10,7 @@ using Parcial2Diferido;
 namespace Parcial2Diferido.Migrations
 {
     [DbContext(typeof(DBAdminContext))]
-    [Migration("20210609163602_change1")]
+    [Migration("20210610060209_change1")]
     partial class change1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

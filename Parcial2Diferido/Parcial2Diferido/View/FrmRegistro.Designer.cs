@@ -136,7 +136,7 @@ namespace Parcial2Diferido
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(153, 22);
             this.label3.TabIndex = 15;
-            this.label3.Text = "Lugar de recidencia:";
+            this.label3.Text = "Lugar de residencia:";
             // 
             // label4
             // 
